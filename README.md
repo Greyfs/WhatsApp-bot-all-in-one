@@ -9,7 +9,7 @@ WhatsApp bot with many functions, and cool features
 
 This is a complete WhatsApp bot with cool features
 
-### Screenshot demo
+### Screenshot
 <p align="center">
 
   <img src="https://telegra.ph/file/ffbc2c45a1ffe03c99175.jpg" alt="THIS README IS SUPPORTED BY AI">
