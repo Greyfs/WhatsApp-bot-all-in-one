@@ -28,3 +28,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 ```
+### Join my WhatsApp group
+
+  <a href="https://chat.whatsapp.com/GMKCDy07dzX6o2T040NpAd"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
