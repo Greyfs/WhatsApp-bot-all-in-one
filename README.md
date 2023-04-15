@@ -1,4 +1,8 @@
-# WhatsApp-bot-all-in-one
+
+<h4 align="center">Visitor's Count :</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{greyfs}/count.svg" alt="greyfs :: Visitor's Count" /></p>
+
+# BOT WHATSAPP
 WhatsApp bot with many functions, and cool features
 
 ### Bot apa ini?
